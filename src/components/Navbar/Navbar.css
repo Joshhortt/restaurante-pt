@@ -65,7 +65,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 1%;
     height: 100vh;
     background: var(--color-black);
     transition: 0.5s ease;
@@ -74,7 +74,7 @@
     z-index: 5;
 }
 
-.app__navbar-smallscreen_overlay__close {
+.app__navbar-smallscreen .overlay__close {
     font-size: 27px;
     color: var(--color-golden);
     cursor: pointer;
