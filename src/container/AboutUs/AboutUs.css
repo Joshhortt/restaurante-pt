@@ -63,5 +63,15 @@
     }
 }
 
+@media screen and (max-width: 900px) {
+    .app__aboutus-content {
+        flex-direction: column;
+    }
+
+    .app__aboutus-content_knife {
+        margin: 4rem 0;
+    }
+}
+
 
 
