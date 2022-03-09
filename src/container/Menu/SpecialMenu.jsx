@@ -19,6 +19,9 @@ const SpecialMenu = () => (
           ))}
         </div>
       </div>
+      <div className="app__specialMenu-menu_img">
+        <img src={images.menu} alt="menu__img" />
+      </div>
     </div>
   </div>
 );
