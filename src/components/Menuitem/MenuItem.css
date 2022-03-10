@@ -21,7 +21,7 @@
 }
 
 .app__menuitem-dash {
-    width: 100px;
+    width: 90px;
     height: 1px;
     background: var(--color-golden);
     margin: 0 1rem;
