@@ -34,7 +34,7 @@
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
     .app__laurels_awards-card {
         min-width: 100%;
         margin: 1rem 0;
