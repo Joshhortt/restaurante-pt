@@ -42,3 +42,10 @@
     }
 }
 
+@media screen and (max-width: 300px) {
+    .app__newsletter-heading h1 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+}
+
