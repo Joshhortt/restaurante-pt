@@ -19,6 +19,10 @@ const Gallery = () => {
 
     <div className="app__gallery-images">
       <div className="app__gallery-images_container" ref={scrollRef}>
+        <div className="app__gallery-images_arrows">
+          <BsArrowLeftShort className="gallery__arrow-icon" onClick={() => scroll('left')} />
+          <BsArrowRightShort className="gallery__arrow-icon" onClick={() => scroll('right')} />
+        </div>
       </div>
     </div>
   </div>
