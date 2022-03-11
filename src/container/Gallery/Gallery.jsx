@@ -6,8 +6,10 @@ import './Gallery.css';
 
 const Gallery = () => {
   return (
-  <div>
-    
+  <div className="app__gallery flex__center">
+    <div className="app__gallery-content">
+      <SubHeading title="Instagram" />
+    </div>
   </div>
 );
 }
