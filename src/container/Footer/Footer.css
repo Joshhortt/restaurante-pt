@@ -26,3 +26,8 @@
     margin: 1rem;
     text-align: center;
 }
+
+.app__footer-links_logo img:first-child {
+    width: 210px;
+    margin-bottom: 0.75rem;
+}
