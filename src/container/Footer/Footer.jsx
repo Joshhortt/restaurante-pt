@@ -34,12 +34,12 @@ const Footer = () => (
         <p className="p__opensans">Friday-Saturday:</p>
         <p className="p__opensans">11:00 am - 12:00 am</p>
       </div>
-      </div>
+      
 
       <div className="footer__copyright">
-      <p className="p__opensans">2022 Restaurant Peter Brissos. All Rights reserved.</p>
+      <p className="p__opensans">2022 Peter Brissos. All Rights reserved.</p>
      </div>
-
+    </div>
   </div>
 );
 
