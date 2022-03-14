@@ -28,10 +28,16 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_work">
-
+        <h1 className="app__footer-headtext">Working Hours</h1>
+        <p className="p__opensans">Sunday-Thu:</p>
+        <p className="p__opensans">11:00 am - 11:00 pm</p>
+        <p className="p__opensans">Friday-Saturday:</p>
+        <p className="p__opensans">11:00 am - 12:00 am</p>
       </div>
-  </div>
+      </div>
 
+      <div className="app__footer-links_work">
+      </div>
 
   </div>
 );
