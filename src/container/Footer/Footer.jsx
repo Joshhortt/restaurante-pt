@@ -36,8 +36,9 @@ const Footer = () => (
       </div>
       </div>
 
-      <div className="app__footer-links_work">
-      </div>
+      <div className="footer__copyright">
+      <p className="p__opensans">2022 Restaurant Peter Brissos. All Rights reserved.</p>
+     </div>
 
   </div>
 );
