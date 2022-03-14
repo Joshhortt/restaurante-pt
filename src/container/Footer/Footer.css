@@ -19,3 +19,10 @@
     padding: 0 2rem;
 }
 
+.app__footer-links_contact,
+.app__footer-links_logo,
+.app__footer-links_work {
+    flex: 1;
+    margin: 1rem;
+    text-align: center;
+}
